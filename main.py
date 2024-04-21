@@ -1,6 +1,6 @@
 print("Hola Esta es mi primera prueba")
-print("Añadimos primera frase modificada web")
+print("Añadimos primera frase modificada")
 
-print("añado segunda 4c frase")
-print("Añado frase comentada")
+print("añado segunda frase")
+
 
